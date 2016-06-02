@@ -1,5 +1,13 @@
 [
     {
+        "version": "0.1.3",
+        "downloadUrl": "https://github.com/composedcreative/craft-expandedsearch/archive/0.1.3.zip",
+        "date": "2016-06-02T18:10:00Z",
+        "notes": [
+            "[Fixed] Defined plugin version"
+        ]
+    },
+    {
         "version": "0.1.2",
         "downloadUrl": "https://github.com/composedcreative/craft-expandedsearch/archive/0.1.2.zip",
         "date": "2016-06-02T17:50:00Z",
