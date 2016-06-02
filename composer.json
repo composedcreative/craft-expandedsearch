@@ -1,5 +1,6 @@
 {
     "name": "composedcreative/expandedsearch",
+    "license": "GPL-3.0",
     "minimum-stability": "dev",
     "description": "Craft CMS search results with expanded meta data including the matched field, matched value and related values for certain field types",
     "type": "craft-plugin",
