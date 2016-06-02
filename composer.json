@@ -1,0 +1,9 @@
+{
+    "name": "composed/expandedsearch",
+    "minimum-stability": "dev",
+    "description": "Search results with expanded meta data including the matched field, matched value and related values for certain field types",
+    "type": "craft-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
