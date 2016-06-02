@@ -1,7 +1,7 @@
 # Change Log
 
-## [Unreleased]
+## [0.1.0] - 2016-June-02
 ### Added
 - ExpandedSearchPlugin, ExpandedSearch_EntrySearchResultModel, ExpandedSearch_SearchService and ExpandedSearchVariable
 
-[Unreleased]: https://bitbucket.org/composedcreative/craft-expandedsearch/branches/compare/develop..
+[0.1.0]: https://github.com/composedcreative/craft-expandedsearch/releases/tag/0.1.0

@@ -13,7 +13,7 @@ use Craft\ExpandedSearch_EntrySearchResultModel;
  * @copyright Copyright (c) 2016, Compose[d] Creative Corp.
  * @license   GNU GPLv3
  * @package   ExpandedSearch
- * @since     %NEXT_VERSION%
+ * @since     0.1.0
  */
 class ExpandedSearch_SearchService extends BaseApplicationComponent
 {
