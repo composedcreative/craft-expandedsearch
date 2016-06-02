@@ -1,7 +1,7 @@
 {
-    "name": "composed/expandedsearch",
+    "name": "composedcreative/expandedsearch",
     "minimum-stability": "dev",
-    "description": "Search results with expanded meta data including the matched field, matched value and related values for certain field types",
+    "description": "Craft CMS search results with expanded meta data including the matched field, matched value and related values for certain field types",
     "type": "craft-plugin",
     "require": {
         "composer/installers": "~1.0"

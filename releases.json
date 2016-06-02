@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "version": "0.1.1",
+        "downloadUrl": "https://github.com/composedcreative/craft-expandedsearch/archive/0.1.1.zip",
+        "date": "2016-06-02T17:42:00Z",
+        "notes": [
+            "[Added] releases data for 0.1.0 and 0.1.1",
+            "[Changed] Composer vendor name to composedcreative"
+        ]
+    },
+    {
+        "version": "0.1.0",
+        "downloadUrl": "https://github.com/composedcreative/craft-expandedsearch/archive/0.1.0.zip",
+        "date": "2016-06-02T17:14:06Z",
+        "notes": [
+            "[Added] Initial release"
+        ]
+    }
+]
