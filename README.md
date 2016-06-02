@@ -18,3 +18,8 @@ In your search results template
     <p>Sorry, no results for {{query}}.</p>
 {% endfor %}
 ```
+
+## Roadmap
+
+* Improve documentation
+* Add handling for more non-scalar field types

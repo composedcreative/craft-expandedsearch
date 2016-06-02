@@ -15,23 +15,33 @@ use Craft\BasePlugin;
  */
 class ExpandedSearchPlugin extends BasePlugin
 {
-    function getName()
+    public function getName()
     {
          return Craft::t('Expanded Search');
     }
 
-    function getVersion()
+    public function getDescription()
+    {
+        return 'Expanded meta information for search results';
+    }
+
+    public function getVersion()
     {
         return '0.1.0';
     }
 
-    function getDeveloper()
+    public function getDeveloper()
     {
         return 'Compose[d] Creative';
     }
 
-    function getDeveloperUrl()
+    public function getDeveloperUrl()
     {
         return 'http://www.composedcreative.com';
+    }
+
+    public function getReleaseFeedUrl()
+    {
+        return 'https://raw.githubusercontent.com/composedcreative/craft-expandedsearch/master/releases.json';
     }
 }
